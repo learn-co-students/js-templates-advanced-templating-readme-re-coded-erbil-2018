@@ -7,7 +7,7 @@
 3. Practice writing a template using Handlebars
 4. Write a custom Handlebars helper
 
-## Introduction
+<!--## Introduction-->
 
 Templates are a powerful way to dynamically create HTML content without having to hand-build and concatenate strings of HTML and data values within your JavaScript code.
 
